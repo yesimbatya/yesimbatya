@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @yesimbatya
-- 👀 I’m interested in math, logic & biology.
+- 👀 I’m interested in math, (neuro)biology & history.
+- ✨ Exploring AI
 
 <!---
 yesimbatya/yesimbatya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
